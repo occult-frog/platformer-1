@@ -5,3 +5,5 @@ Simple platformer game I made for Haven. Tileset used: https://beeler.itch.io/to
 I have exams right now so I can't add more stuff.
 
 No AI was used.
+
+check out my profile for more godot stuff.
