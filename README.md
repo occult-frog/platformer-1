@@ -2,7 +2,7 @@
 
 Simple platformer game I made for Haven. Tileset used: https://beeler.itch.io/top-down-earth-tileset
 
-I have exams right now so I can't add more stuff.
+To play go to https://occult-frog.itch.io/platformer1 .
 
 No AI was used.
 
